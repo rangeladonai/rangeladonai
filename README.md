@@ -1,4 +1,4 @@
-### Olá! Eu sou Rangel Adonai" 👋
+### Olá! Eu sou Rangel Adonai 👋
 <hr>
 <p>Atualmente estou trabalhando na parte de backend com PHP</p>
 <div>
