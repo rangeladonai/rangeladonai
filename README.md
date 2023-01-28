@@ -9,7 +9,8 @@
     <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>&nbsp;
     <img align="center" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;
     <img align="center" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;
-    <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>&nbsp;
-    <img align="center" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>&nbsp;
+    <img align="center" height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"/>&nbsp;
   
+  
+    <img align="center" height="40px" src="URL AQUI"/>&nbsp;
 </div>
