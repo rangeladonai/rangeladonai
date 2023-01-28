@@ -2,7 +2,7 @@
 <hr>
 <p>Atualmente estou trabalhando na parte de backend com PHP</p>
 <div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rangelkohei&show_icons=true&theme=dark"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rangelkohei&show_icons=true&theme=dark"/>&nbsp;
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
 </div>
 <div>
