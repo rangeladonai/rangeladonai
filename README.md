@@ -10,7 +10,7 @@
     <img align="center" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;
     <img align="center" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;
     <img align="center" height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"/>&nbsp;
+    
   
-  
-    <img align="center" height="40px" src="URL AQUI"/>&nbsp;
+    <img align="center" height="40px" src="https://cdn.simpleicons.org/php.svg"/>&nbsp;
 </div>
