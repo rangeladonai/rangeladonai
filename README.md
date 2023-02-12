@@ -3,6 +3,7 @@
 <p>Atualmente estou trabalhando na parte de backend com PHP</p>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rangelkohei&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
 </div>
 <div>
     <img align="center" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;&nbsp;&nbsp;
