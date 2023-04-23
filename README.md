@@ -1,5 +1,5 @@
 ### Olá! Eu sou Rangel Adonai 👋
-##  Desenvolvedor Full-stack focado em Back-End
+##  Desenvolvedor Full-stack focado em <b>Back-End</b>
 <p>Atualmente estou trabalhando na parte de backend com PHP, porém, tenho uma base de conhecimento básica sobre front-end</p>
 <p><b>Aberto para Freelancer</b></p>
 <div>
