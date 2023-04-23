@@ -6,7 +6,6 @@
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=rangeladonai&show_icons=true&theme=gruvbox"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>
 </div>
-<span>Tecnologias de mais experiencia</span>
 <div>     
    <img height="60px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
    <img height="60px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
