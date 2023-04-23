@@ -18,4 +18,6 @@
 <hr>
 <a href="https://br.linkedin.com/in/rangel-adonai-a38823234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:rangel.adonai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://media.tenor.com/tjWPZrVtsiYAAAAC/luffy-gear-5.gif"/>
