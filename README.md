@@ -1,7 +1,7 @@
 ### Olá! Eu sou Rangel Adonai 👋
 ##  Desenvolvedor Backend
 <p>Atualmente estou trabalhando na parte de backend com PHP, porém, tenho uma base de conhecimento básica sobre front-end</p>
-<p>sempre gostie mais de usar php puro, mas possuo experiencia com Laravel</p>
+<p>sempre gostei mais de usar php puro, mas possuo experiencia com Laravel</p>
 <div>
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=rangeladonai&show_icons=true&theme=gruvbox"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>
