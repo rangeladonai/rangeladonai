@@ -6,11 +6,12 @@
 </div>
 
 <div>    
-<img style="width: 45px;" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img style="width: 45px;" title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img style="width: 45px;" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-<img style="width: 45px;" title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-<img style="width: 55px;" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<img style="width: 50px;" title="PHP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
+<img style="width: 50px;" title="javascript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
+<img style="width: 50px;" title="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" /> 
+<img style="width: 50px;" title="Unity" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" />
+<img style="width: 50px;" title="Docker" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
+<img style="width: 50px;" title="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
 </div>
 
 <hr>
