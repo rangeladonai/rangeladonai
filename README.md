@@ -1,7 +1,7 @@
 ### Hey! 👋
 ##  Desenvolvedor / Programador
 <div>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>
 </div>
 
 <div>     
