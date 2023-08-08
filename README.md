@@ -1,6 +1,6 @@
 
 ### Hey! 👋
-##  Desenvolvedor / Programador      
+##  Desenvolvedor
 <div>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>
 </div>
@@ -9,7 +9,6 @@
 <img style="width: 40px;" title="PHP" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
 <img style="width: 40px;" title="javascript" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" />
 <img style="width: 40px;" title="Java" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" /> 
-<img style="width: 40px;" title="Unity" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" />
 <img style="width: 40px;" title="Docker" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
 <img style="width: 40px;" title="MySQL" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" />
 </div>
