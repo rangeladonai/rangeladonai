@@ -1,6 +1,6 @@
 
 ### Hey! 👋
-##  Desenvolvedor
+##  Meu nome é Rangel Adonai, e eu sou desenvolvedor!
 <div>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>
 </div>
