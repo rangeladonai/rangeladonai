@@ -1,6 +1,6 @@
 
 ### Hey! 👋
-##  I'm Rangel Adonai, and I'm a developer
+##  I'm Rangel Adonai and I'm a developer
 <div>
   <!--<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>!-->
 </div>
