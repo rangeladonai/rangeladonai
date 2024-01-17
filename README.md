@@ -1,11 +1,11 @@
-
-### Hey! 👋
-##  I'm Rangel Adonai and I'm a developer
+## Hello World! my name is Rangel Adonai and I am a Developer
+<p>Neste Github você irá encontrar meus projetos e acompanhar minha evolução em codigo e dev-ops</p>
 <div>
-  <!--<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>!-->
+<img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>
 </div>
 <br>
-<div>    
+<div>
+<p>Técnologias mais utilizadas e estudadas:</p>
 <img style="width: 40px;" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img style="width: 40px;" title="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img style="width: 40px;" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
