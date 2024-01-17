@@ -3,10 +3,8 @@
 <div>
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>
 </div>
-<br>
-<div>
-<p>Técnologias mais utilizadas e estudadas:</p>
 <div style="display: inline_block"><br/>
+    <p>Técnologias mais utilizadas e estudadas:</p>
     <img aling="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img aling="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img aling="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
