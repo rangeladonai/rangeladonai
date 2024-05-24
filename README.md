@@ -3,7 +3,7 @@
 <div>
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>
 </div>
-<div style="display: inline_block"><br/>
+<!---<div style="display: inline_block"><br/>
     <p>Técnologias mais utilizadas e estudadas:</p>
     <img aling="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img aling="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -11,7 +11,7 @@
     <img aling="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img aling="center" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img aling="center" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-</div>
+</div> -->
 </div>
 <hr>
 <a href="mailto:rangel.adonai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
