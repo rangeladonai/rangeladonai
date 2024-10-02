@@ -1,5 +1,5 @@
 ## Hello World!
-<p>Neste Github você irá encontrar meus projetos e acompanhar minha evolução em codigo e dev-ops</p>
+<p>Neste Github você irá encontrar meus projetos e acompanhar minha evolução em desenvolvimento/programação</p>
 <div>
 <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangeladonai&layout=compact&theme=gruvbox"/>
 </div>
