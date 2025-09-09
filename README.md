@@ -7,4 +7,4 @@
 <a href="mailto:rangel.adonai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://br.linkedin.com/in/rangel-adonai-a38823234"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=rangeladonai&style=for-the-badge&color=blueviolet">
+<!--<img src="https://komarev.com/ghpvc/?username=rangeladonai&style=for-the-badge&color=blueviolet">-->
